@@ -49,4 +49,4 @@ If you'd like to contribute additional challenges or improvements, please follow
 3. Make your modifications.
 4. Submit a pull request with a clear description of your contribution.
 
-Happy coding and debugging! 🚀
+Happy debugging!🚀
